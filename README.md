@@ -24,7 +24,7 @@ Once synchronized at:
 
 Q stabilizes above **14.8**, TBR exceeds **1.25**, divertor heat flux drops ~25 %, neutron damage slows dramatically, and the plant operates with high stability and efficiency at commercial scale.
 
-### Mathematical Proof (Key Coupling Term)
+### Mathematical Proof
 The self-reinforcing behavior is driven by:
 
 \[
@@ -37,6 +37,9 @@ Full stability condition and derivation are in `mathematical_proof.md`.
 This is a **fast 0D/1D industrial-scale surrogate** designed for real-time plant control — exactly the type of model used in SPARC commissioning and ARC operation. The AI control layer actively drives the plant into the Global Harmony Window and maintains it, enabling stable high-gain burning plasma with reduced auxiliary power.
 
 ### How to Run
+
+You can run either model:
+
 ```bash
 python rich_fusion_plant_model.py
 
