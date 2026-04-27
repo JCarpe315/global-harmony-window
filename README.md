@@ -1,4 +1,7 @@
 # The Global Harmony Window
+**Companion Discovery:**  
+The Expansion Harmony Window (fusion propulsion) is now available in its own dedicated repository:  
+→ [https://github.com/JCarpe315/expansion-harmony-window](https://github.com/JCarpe315/expansion-harmony-window)
 
 **A newly discovered operating regime in compact high-field tokamaks**
 
