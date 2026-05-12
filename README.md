@@ -14,6 +14,8 @@ All five discoveries are now permanently in the public domain (CC0 1.0 Universal
 
 **A newly discovered operating regime in compact high-field tokamaks**
 
+This is an exploratory 0D/1D industrial surrogate for control studies, not a high-fidelity physics simulation (no GYRO, TRANSP, MCNP, etc.). The performance numbers in the original announcement were illustrative targets.
+
 This entire work — concept, mathematics, code, presentation, and all materials — is dedicated to the public domain under **CC0 1.0 Universal**.
 
 **No rights reserved. Free for any use, forever.**
