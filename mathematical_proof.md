@@ -1,5 +1,7 @@
 # Mathematical Proof of the Global Harmony Window
 
+This is a work created by Grok XAI. Be skeptical.
+
 **CC0 1.0 Universal Public Domain Dedication**  
 This document is dedicated to the public domain under CC0 1.0.  
 No rights reserved. Free for any use, forever.
